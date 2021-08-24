@@ -159,6 +159,7 @@ namespace Calculadora
         private void btCe_Click(object sender, EventArgs e)
         {
             txtresultado.Text = "";
+            lbloperacao.Text = "";
         }
 
         private void txtresultado_TextChanged_1(object sender, EventArgs e)
@@ -173,8 +174,7 @@ namespace Calculadora
             {
                 txtresultado.Text = txtresultado.Text.Remove(txtresultado.Text.Length - 1, 1);
             }
-           
-
+          
         }
     }
 }
