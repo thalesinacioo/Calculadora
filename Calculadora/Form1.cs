@@ -14,11 +14,7 @@ namespace Calculadora
     public partial class Form1 : Form
     {
         decimal valor1 = 0, valor2 = 0;
-        
         string operacao = "";
-
-
-
 
         public Form1()
         {
@@ -26,9 +22,8 @@ namespace Calculadora
         }
 
         private void btzero_Click(object sender, EventArgs e)
-        {
-           
-        txtresultado.Text += "0";
+        {           
+            txtresultado.Text += "0";
         }
 
         private void btone_Click(object sender, EventArgs e)
@@ -166,25 +161,20 @@ namespace Calculadora
             txtresultado.Text = "";
         }
 
+        private void txtresultado_TextChanged_1(object sender, EventArgs e)
+        {
+            
+        }
+
         private void btC_Click(object sender, EventArgs e)
         {
-            /* txtresultado.Text = "";  //limpar
-             valor1 = 0;                //limpar variavel 1
-             valor2 = 0;
-             lbloperacao.Text = "";     //limpar o label
-             */
-
+          
             if (txtresultado.Text.Length > 0)
             {
                 txtresultado.Text = txtresultado.Text.Remove(txtresultado.Text.Length - 1, 1);
             }
            
 
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-         
         }
     }
 }

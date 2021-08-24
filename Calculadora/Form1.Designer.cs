@@ -334,6 +334,7 @@ namespace Calculadora
             this.txtresultado.Size = new System.Drawing.Size(257, 164);
             this.txtresultado.TabIndex = 23;
             this.txtresultado.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtresultado.TextChanged += new System.EventHandler(this.txtresultado_TextChanged_1);
             // 
             // Form1
             // 
@@ -365,7 +366,6 @@ namespace Calculadora
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Calculadora";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
