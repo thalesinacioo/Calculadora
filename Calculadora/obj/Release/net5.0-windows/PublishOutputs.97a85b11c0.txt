@@ -1,0 +1,5 @@
+C:\Users\Thales\Documents\GitHub\Calculadora\Calculadora\bin\publish\Calculadora.exe
+C:\Users\Thales\Documents\GitHub\Calculadora\Calculadora\bin\publish\Calculadora.dll
+C:\Users\Thales\Documents\GitHub\Calculadora\Calculadora\bin\publish\Calculadora.deps.json
+C:\Users\Thales\Documents\GitHub\Calculadora\Calculadora\bin\publish\Calculadora.runtimeconfig.json
+C:\Users\Thales\Documents\GitHub\Calculadora\Calculadora\bin\publish\Calculadora.pdb
