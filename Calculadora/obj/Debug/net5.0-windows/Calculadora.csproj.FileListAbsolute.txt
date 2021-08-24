@@ -35,3 +35,4 @@ C:\Users\Thales\Documents\GitHub\Calculadora\Calculadora\obj\Debug\net5.0-window
 C:\Users\Thales\Documents\GitHub\Calculadora\Calculadora\obj\Debug\net5.0-windows\ref\Calculadora.dll
 C:\Users\Thales\Documents\GitHub\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.pdb
 C:\Users\Thales\Documents\GitHub\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\Thales\Documents\GitHub\Calculadora\Calculadora\obj\Debug\net5.0-windows\Calculadora.csproj.AssemblyReference.cache
