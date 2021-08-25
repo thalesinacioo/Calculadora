@@ -1,3 +1,5 @@
+![Screenshot_1](https://user-images.githubusercontent.com/35511577/130706361-72e687d9-1b11-4ac8-beac-7a80c1b197a6.png)
+
 # Calculadora
 Primeira calculadora: 24082021
 
@@ -8,3 +10,6 @@ Possui alguns bugs conhecidos:
   
   Qualquer bug encontrado, favor relatar.
   Thanks :v:
+  
+  
+
